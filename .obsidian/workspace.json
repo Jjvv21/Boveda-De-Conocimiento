@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6012a23584427953",
+        "id": "aa14798c6bfa4792",
         "type": "tabs",
         "children": [
           {
-            "id": "ad5e3ca0545d7cc4",
+            "id": "e72fb03b9d7696a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,25 +166,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad5e3ca0545d7cc4",
+  "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
-    "CE1116/01_Procesos de Desarrollo/Pruebas Funcionales.md",
+    "CE1116/05_Pruebas/Pruebas Funcionales.md",
     "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
-    "CE1116/01_Procesos de Desarrollo/Requerimientos Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/01_Procesos de Desarrollo/Stakeholder.md",
+    "CE1116/02_Requirimientos/Stakeholder.md",
     "CE1116/01_Procesos de Desarrollo/Taskboard.md",
     "CE1116/01_Procesos de Desarrollo/User Story.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
-    "CE1116/01_Procesos de Desarrollo/Requerimientos No Funcionales.md",
-    "CE1116/01_Procesos de Desarrollo/Requerimientos de Sistema.md",
-    "CE1116/01_Procesos de Desarrollo/Requerimientos de Negocio.md",
+    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/08_Templates/Atomic Template.md",
