@@ -9,7 +9,7 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-
+Es un marco de trabajo ágil que organiza el desarrollo en ciclos cortos que se llaman sprints, donde el equipo trabaja en un conjunto definido de tareas para entregar una parte funcional del producto. 
 
 ## 📌 Puntos Claves (Opcional)
 - 
